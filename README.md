@@ -1,16 +1,13 @@
-### Hi there 👋
+### Hi there 👋, I'm Ziko
+#### Low level development & computer engineer
+I'm Ziko from Sweden. I'm a 16 year old student studying at LBS. I have always loved computers, especially at a lower level. I often tinker with electronics and program in my spare time.
 
-<!--
-**Zika-dev/Zika-dev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## Skills
+* C
+* C++
+* 6502 Assembly
+* Python
 
-Here are some ideas to get you started:
+🔭 I’m currently working on my on own 6502 computer 
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=Zika-dev&show_icons=true)  
