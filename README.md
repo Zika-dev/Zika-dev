@@ -1,6 +1,6 @@
 ### Hi there 👋, I'm Ziko
 #### Low level development & computer engineer
-I'm Ziko from Sweden. I'm a 16 year old student studying at LBS. I have always loved computers, especially at a lower level. I often tinker with electronics and program in my spare time.
+I'm Ziko from Sweden. I'm a 17 year old student studying at LBS. I have always loved computers, especially at a lower level. I often tinker with electronics and program in my spare time.
 
 ## Skills
 * C
